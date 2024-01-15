@@ -1,0 +1,15 @@
+{
+  "name": "what-front-n-back-ends",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "nodemon src/app.js",
+    "format": "prettier --write ."
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.2"
+  },
+  "devDependencies": {
+    "prettier": "^3.2.2"
+  }
+}
